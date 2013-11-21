@@ -1,0 +1,14 @@
+{
+  "modules": { 
+    "push": {
+      "description": "Push notification to a smartphone with prowl",
+      "version": "0.1",
+      "name": "Franck WEHRLE",
+      "api_key_1": "Prowl API for user 1",
+      "api_key_2": "Prowl API for user 2"
+,
+      "api_key_2": "Prowl API for user 2",
+      "api_key_3": "Prowl API for user 3",
+      "api_key_4": "Prowl API for user 4"    }
+  }
+}
